@@ -2,8 +2,8 @@ use configuration;
 
 DROP TABLE IF EXISTS `test`;
 CREATE TABLE `test` (
-  `id` int(11) NOT NULL AUTO_INCREMENT COMMENT 'id(自动生成)',
-  `name` varchar(255) NOT NULL COMMENT '名称',
-  `remark` varchar(255) DEFAULT NULL COMMENT '说明',
+  `id` int(11) NOT NULL AUTO_INCREMENT COMMENT 'id(鑷姩鐢熸垚)',
+  `name` varchar(255) NOT NULL COMMENT '鍚嶇О',
+  `remark` varchar(255) DEFAULT NULL COMMENT '璇存槑',
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
