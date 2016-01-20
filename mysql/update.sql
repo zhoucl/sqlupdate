@@ -11,3 +11,6 @@ source D:/sqls/functions/test.func;
 
 -- [#1015] 增加procedure: test
 source D:/sqls/procedures/test.proc;
+
+-- [#1016] 增加view: test_view
+source D:/sqls/views/v_test.sql;

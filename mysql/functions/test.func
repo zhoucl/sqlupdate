@@ -1,8 +1,8 @@
--- º¯Êý×÷ÓÃ£º¶¨Òåtestº¯Êý
--- ²ÎÊýid£ºint
--- º¯ÊýËµÃ÷£º
--- ´´½¨Õß£º
--- ´´½¨Ê±¼ä£º
+-- å‡½æ•°ä½œç”¨ï¼šå®šä¹‰testå‡½æ•°
+-- å‚æ•°idï¼šint
+-- å‡½æ•°è¯´æ˜Žï¼š
+-- åˆ›å»ºè€…ï¼š
+-- åˆ›å»ºæ—¶é—´ï¼š
 USE `configuration`;
 DROP function IF EXISTS `test`;
 
